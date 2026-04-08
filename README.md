@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Staff+Software+Engineer;Data+Engineering+%7C+AI+%2F+ML;Building+intelligent+data+systems)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-mishra.sourabh08@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mishra.sourabh08@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sourabhmishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabhmishra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sourabhmishra.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://sourabhmishra.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sourabhmishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhmishra-profile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sourabhmishra.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://sourabhmishra.in/)
 [![Profile Views](https://komarev.com/ghpvc/?username=OggyMishra&style=flat-square&color=70A5FD)](https://github.com/OggyMishra)
 
 </div>
